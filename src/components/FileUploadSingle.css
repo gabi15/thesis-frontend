@@ -1,0 +1,11 @@
+.bordered{
+    border-width: 2px;
+    border-color: rgb(52, 172, 15);
+    border-style: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+}
